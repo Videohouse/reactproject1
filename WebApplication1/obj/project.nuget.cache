@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwouGcwZeTABzTrMrVcKb5GN1N97Zyy0VLMB4ljHZsdwKupZEG+s1DHT0fnrLz5QdXl/3Ez6753tulhCEzcdow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tim Van Dingenen\\source\\repos\\reactproject1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.25\\microsoft.aspnetcore.nodeservices.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.25\\microsoft.aspnetcore.spaservices.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.5\\microsoft.aspnetcore.spaservices.extensions.6.0.5.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.25\\microsoft.extensions.configuration.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.25\\microsoft.extensions.configuration.abstractions.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.25\\microsoft.extensions.configuration.binder.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.25\\microsoft.extensions.dependencyinjection.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.25\\microsoft.extensions.dependencyinjection.abstractions.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.logging\\3.1.25\\microsoft.extensions.logging.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.25\\microsoft.extensions.logging.abstractions.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.25\\microsoft.extensions.logging.configuration.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.25\\microsoft.extensions.logging.console.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.options\\3.1.25\\microsoft.extensions.options.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.25\\microsoft.extensions.options.configurationextensions.3.1.25.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Tim Van Dingenen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
